@@ -12,3 +12,6 @@ Portafolio
 
 * **[ADA 04 - Árboles Binarios: Gestor de Estudiantes](./ADA04)**
     * **Descripción breve:** Implementación de un Árbol Binario de Búsqueda (ABB) en C para gestionar registros de estudiantes (matrícula, nombre, calificaciones dinámicas). El sistema permite inserciones, eliminaciones, reportes ordenados y búsquedas basadas en la matrícula.
+
+* **[ADA 05 - Algoritmos de Ordenamiento: Bubble Sort](./ADA05)**
+    * **Descripción breve:** Investigación profunda sobre el algoritmo de ordenamiento **Bubble Sort** (Ordenamiento por Intercambio), incluyendo su funcionamiento, análisis de complejidad temporal y espacial ($O(n^2)$), y sus casos de uso prácticos.
