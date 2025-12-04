@@ -9,3 +9,6 @@ Portafolio
 
 * **[ADA 03 - Listas Dobles: Gestor de Catálogo de Películas](./ADA03)**
     * **Descripción breve:** Implementación de una Lista Doblemente Ligada en C para cargar, administrar y manipular registros de películas desde un archivo CSV. Incluye funciones CRUD (Crear, Leer, Actualizar, Eliminar) y diversas operaciones de búsqueda.
+
+* **[ADA 04 - Árboles Binarios: Gestor de Estudiantes](./ADA04)**
+    * **Descripción breve:** Implementación de un Árbol Binario de Búsqueda (ABB) en C para gestionar registros de estudiantes (matrícula, nombre, calificaciones dinámicas). El sistema permite inserciones, eliminaciones, reportes ordenados y búsquedas basadas en la matrícula.
