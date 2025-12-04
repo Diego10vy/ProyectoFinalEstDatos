@@ -15,3 +15,6 @@ Portafolio
 
 * **[ADA 05 - Algoritmos de Ordenamiento: Bubble Sort](./ADA05)**
     * **Descripción breve:** Investigación profunda sobre el algoritmo de ordenamiento **Bubble Sort** (Ordenamiento por Intercambio), incluyendo su funcionamiento, análisis de complejidad temporal y espacial $O(n^2)$, y sus casos de uso prácticos.
+
+* **[ADA 07 - Hashing: Control de Colisiones](./ADA07)**
+    * **Descripción breve:** Implementación de dos Tablas Hash. La primera utiliza **Direccionamiento Abierto** (sondeo lineal) para el registro de estudiantes. La segunda utiliza **Encadenamiento** (listas ligadas) para simular una tabla de símbolos de un compilador.
